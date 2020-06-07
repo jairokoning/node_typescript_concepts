@@ -10,7 +10,9 @@ GoStack Bootcamp 11
 
 ## :checkered_flag: Level 2 - First Node.JS Project with TypeScript
 
+
  :arrow_right: **Structure and patterns**
+
  :arrow_right: **Building application**
 
 :red_circle: During this phase of Bootcamp, the structure and patterns of a NodeJS application with Typescript were studied and applied in project, configuring a project from scratch.
